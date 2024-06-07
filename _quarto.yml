@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Regan Smock"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - Research.qmd
+
+format:
+  html:
+    theme: sketchy ##https://bootswatch.com/
+    css: styles.css
+    toc: true
+
+
+
