@@ -3,6 +3,7 @@ title: "Research"
 editor: visual
 ---
 
-## Morality in context: An affect control theory approach to moral judgment 
+## Morality in context: An affect control theory approach to moral judgment
 
 Research on moral judgment has historically focused on identifying abstract moral values that people hold and apply in diverse situations to reach moral evaluations. Recent research has showed that social context in situations, like social identity labels or the relationship of those involved, shapes moral judgments produced. While we now know that moral judgments change in the face of different social information, there is still little understanding of how these processes unfold. Cultural meaning produced by situational social context is tested as a mechanism in moral judgment production, using affect control theory, a symbolic interactionist theory for modeling situations. Results show that affect control theory can effectively predict judgments made by human participants and identifies systematic variation in moral judgments when cultural meaning of social identity labels in situations is varied. These findings suggest that exploring the meaning produced by situations may be fruitful for understanding moral judgment process and highlights affect control theory as a promising research tool.
+
