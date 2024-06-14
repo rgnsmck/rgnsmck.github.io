@@ -9,6 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - Research.qmd
+      - mini_essays.qmd
 
 format:
   html:
