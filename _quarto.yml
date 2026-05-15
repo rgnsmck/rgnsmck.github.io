@@ -8,14 +8,18 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - Research.qmd
-      - mini_essays.qmd
+      - href: about.qmd
+        text: About
+      - href: Research.qmd
+        text: Research
 
 format:
   html:
-    theme: sketchy ##https://bootswatch.com/
+    theme: yeti
     css: styles.css
-    toc: true
+    toc: false
+    
+
 
 
 

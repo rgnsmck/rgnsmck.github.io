@@ -2,5 +2,23 @@
 title: "Regan Smock"
 ---
 
-I am a Sociology graduate student at the University of Iowa. My research focuses on identifying the social psychological mechanisms that contribute to the social construction, maintenance, and change of cultural beliefs, values, and norms in ordinary interactions of everyday life.
+---
+title: "Regan Smock"
+subtitle: "PhD Candidate | University of Iowa"
+page-layout: full
+about:
+  template: trestles
+  image: IMG_3958.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:regan-smock@uiowa.edu
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar-google-com.proxy.lib.uiowa.edu/citations?user=Z_k29L4AAAAJ&hl=en&oi=ao
+---
+
+## About Me
+
+I am a PhD candidate in the Department of Sociology at the University of Iowa. My research examines how individuals imagine and are impacted by societal standards and cultural beliefs. I use survey, experimental, and qualitative methods to understand how societal beliefs impact individual behavior. 
 
