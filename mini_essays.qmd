@@ -1,6 +1,10 @@
 ---
-title: "mini_essays"
+title: "Mini Essays"
 editor: visual
 ---
 
-Regan
+## Trouble with writing
+
+Not knowing what to write about, just find interesting ideas and write about them once a day.
+
+Novelty:
