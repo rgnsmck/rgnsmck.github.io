@@ -8,10 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
       - href: Research.qmd
         text: Research
+      - href: contact.qmd
+        text: Contact
+      - href: smock_CV.pdf
+        text: CV
 
 format:
   html:

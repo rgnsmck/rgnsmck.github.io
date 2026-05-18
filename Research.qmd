@@ -3,7 +3,32 @@ title: "Research"
 editor: visual
 ---
 
-## Morality in context: An affect control theory approach to moral judgment
+## Pressure toward societal ideals: Perceiving consensus in cultural directives for beauty standards
 
-Research on moral judgment has historically focused on identifying abstract moral values that people hold and apply in diverse situations to reach moral evaluations. Recent research has showed that social context in situations, like social identity labels or the relationship of those involved, shapes moral judgments produced. While we now know that moral judgments change in the face of different social information, there is still little understanding of how these processes unfold. Cultural meaning produced by situational social context is tested as a mechanism in moral judgment production, using affect control theory, a symbolic interactionist theory for modeling situations. Results show that affect control theory can effectively predict judgments made by human participants and identifies systematic variation in moral judgments when cultural meaning of social identity labels in situations is varied. These findings suggest that exploring the meaning produced by situations may be fruitful for understanding moral judgment process and highlights affect control theory as a promising research tool.
+How do widely held beliefs control individual behavior?
 
+## Cultural scripts and coordination: Consensus in third-order beliefs
+
+Third-order beliefs—an individual's perception of what "most people" in a group believe—enable coordination. Past theorizing assumes that third-order beliefs are largely consensual in society. A closer examination of inferences about what most people believe about the importance of 18 work values reveals a selective sharedness—where some values exhibit consensus in third-order beliefs, while others show large diversity in what respondents think most people think. Our respondents were similar in their third-order ratings on importance of having high income*,* but showed diverse inferences about what most people thought about the ability to be creative at work. This finding suggests a limit to the amount of information that can be stored as a shared script about what most people value, where select symbols are shared enough to be used for coordination.
+
+![](Work values consensus plot.png){fig-align="center"}
+
+- **Smock, Regan** and Freda B. Lynn. Forthcoming. “Are Third-Order Beliefs Widely Held? An Empirical Examination of Third-Order Consensus”. *Advances in Group Processes.*
+
+## Morality in context: Cultural beliefs structure moral judgments
+
+Theories of moral judgement from antiquity to present day psychology aim to identify behaviors that are morally wrong. However, behaviors are not the only data individuals rely on to decide what is right and wrong. Variation in the situation, such as situational norms or social role expectations of the perpetrator and victim, impact how actors assess which behaviors are appropriate or untoward.
+
+![](moral blame){fig-align="center" width="486"}
+
+#### With great power comes great responsibility 
+
+Respondents rated behavior as more morally wrong when perpetrated by a high power person than low power person, suggesting that we hold powerful people to higher moral expectations.
+
+- **Smock, Regan**, Yongren Shi, and Steven Hitlin. 2025. "Social Role Expectations and Power Distance in Everyday Moral Blame Judgments." *Handbook of Social Psychology: Vol. 1: Micro Perspective.* Cham: Springer Nature Switzerland
+
+#### Am I the Asshole? Situational norms and moral judgments in online community
+
+Moral judgments changed across situational domains, where some situations had strong norms which resulted in voting convergence on an online forum.
+
+- Shi, Yongren, **Regan Smock**, and Steven Hitlin. 2025. "Moral disagreement in everyday life: An inductive framework for capturing ‘moral order’." *Social science research.*

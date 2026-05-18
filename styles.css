@@ -35,3 +35,11 @@ body {
 .quarto-about-trestles {
   border-left: none !important;
 }
+
+
+.quarto-about-trestles .about-entity .about-links {
+  display: flex !important;
+  justify-content: center !important;
+  flex-wrap: wrap !important;
+  width: 100% !important;
+}
