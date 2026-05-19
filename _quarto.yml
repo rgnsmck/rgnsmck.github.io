@@ -1,9 +1,15 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - "*.jpg"
+    - "*.png"
+    - "*.pdf"
 
 website:
   title: "Regan Smock"
+  description: "Regan Smock - PhD Candidate in Sociology at the University of Iowa"
+  open-graph: true
   navbar:
     left:
       - href: index.qmd

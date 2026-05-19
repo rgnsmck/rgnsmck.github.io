@@ -43,3 +43,7 @@ body {
   flex-wrap: wrap !important;
   width: 100% !important;
 }
+
+.quarto-about-trestles .about-contents {
+  padding-top: 6rem !important;
+}
