@@ -1,0 +1,29 @@
+---
+title: "Teaching"
+format: html
+editor: visual
+---
+
+I have worked as a teaching assistant in classes ranging from 10-90 students across diverse topics at both the undergraduate and graduate levels. My favorite part of teaching sociology is finding creative ways to get students to see their everyday lives differently, by choosing content that connects to their real experiences. Through teaching statistics I have enjoyed the challenge of finding new ways to explain tricky concepts and seeing students improve and gain confidence in their own abilities.
+
+## Sociological Theory
+
+#### Teaching Assistant \| Fall 2023, Fall 2024
+
+An introductory undergraduate course in which students engage with the foundational thinkers of the discipline. I led three weekly discussion sections of 30 students each, facilitating activities designed to connect classical theory to contemporary life. My primary teaching goal was to encourage critical thinking — helping students see how ideas from Marx, Weber, and Durkheim exist in their own experiences.
+
+## Applied Statistics for Social Scientists
+
+#### Teaching Assistant \| Spring 2024
+
+A small undergraduate course introducing core statistical concepts including central tendency, sampling, and hypothesis testing, with hands-on training in Stata. My focus was on building statistical intuition for students encountering quantitative methods for the first time — breaking down intimidating concepts and helping students develop confidence through individual office hours and feedback on problem sets and exams.
+
+## Linear Models in Sociological Research
+
+#### Teaching Assistant \| Spring 2025
+
+A graduate-level course covering multivariate analysis with a focus on multiple linear regression, OLS assumptions, and alternative approaches including logit/probit and hierarchical models. Working with graduate students who arrived with existing statistical foundations, I focused on deepening understanding of model assumptions and supporting Stata implementation through one-on-one office hours and feedback on problem sets and exams. A highlight of the course was supporting students as they applied these methods to their own Master's thesis data.
+
+## Social Psychology
+
+I am excited to teach courses in social psychology, an area in which I completed my comprehensive examination. From traditional thinking of Cooley and Mead to contemporary theories of status and culture, I look forward to sharing a social psychological perspective with students, encouraging them to think through the relationship between individuals and the society in which they are embedded. My own research sits at the intersection of social psychology and cultural sociology, and I look forward to bringing that perspective into the classroom.

@@ -3,15 +3,13 @@ title: "Research"
 editor: visual
 ---
 
-## Pressure toward societal ideals: Perceiving consensus in cultural directives for beauty standards
-
-How do societal beauty standards exert pressure on individuals? When everyone in society values something, it creates a standard that individuals struggle to live up to. However, individuals imagine different levels of consensus in societal expectations. This project examines the conditions under which individuals feel that "everyone" is holding them to the same beauty ideal — and how that perception of unified judgment shapes their emotions and behavior.
+I conduct research at the intersection of social psychology and cultural sociology, focusing on how cultural beliefs are perceived and how those perceptions shape behavior. I am particularly interested in third-order beliefs — what individuals think "most people" think — and how inferences about widely held beliefs build and reify status hierarchies, exert social control over individual behavior, and legitimize the status quo. My dissertation examines when and why individuals infer societal consensus, and how perceiving consensual standards shapes emotional experience and behavior.
 
 ## Cultural scripts and coordination: Consensus in third-order beliefs
 
 Third-order beliefs—an individual's perception of what "most people" in a group believe—enable coordination. Past theorizing assumes that third-order beliefs are largely consensual in society. A closer examination of inferences about what most people believe about the importance of 18 work values reveals a selective sharedness—where some values exhibit consensus in third-order beliefs, while others show large diversity in what respondents think most people think. Our respondents were similar in their third-order ratings on importance of having high income*,* but showed diverse inferences about what most people thought about the ability to be creative at work. This finding suggests a limit to the amount of information that can be stored as a shared script about what most people value, where select symbols are shared enough to be used for coordination.
 
-![](Work%20values%20consensus%20plot.png){fig-align="center"}
+![](work_values.png){fig-align="center"}
 
 - **Smock, Regan** and Freda B. Lynn. Forthcoming. “Are Third-Order Beliefs Widely Held? An Empirical Examination of Third-Order Consensus”. *Advances in Group Processes.*
   - [Read the paper.](smock_and_lynn_2026.pdf)
@@ -24,10 +22,12 @@ Theories of moral judgement from antiquity to present day psychology aim to iden
 
 Respondents rated behavior as more morally wrong when perpetrated by a high power person than low power person, suggesting that we hold powerful people to higher moral expectations.
 
+![](morality_plot.png){fig-align="center"}
+
 - **Smock, Regan**, Yongren Shi, and Steven Hitlin. 2025. "Social Role Expectations and Power Distance in Everyday Moral Blame Judgments." *Handbook of Social Psychology: Vol. 1: Micro Perspective.* Cham: Springer Nature Switzerland
 
 #### Am I the Asshole? Situational norms and moral judgments in online community
 
 Moral judgments changed across situational domains, where some situations had strong norms which resulted in voting convergence on an online forum.
 
-- Shi, Yongren, **Regan Smock**, and Steven Hitlin. 2025. "Moral disagreement in everyday life: An inductive framework for capturing ‘moral order’." *Social science research.*
+- Shi, Yongren, **Regan Smock**, and Steven Hitlin. 2025. "Moral disagreement in everyday life: An inductive framework for capturing ‘moral order’." *Social science research.* [link](https://www-sciencedirect-com.proxy.lib.uiowa.edu/science/article/pii/S0049089X24001613?via%3Dihub)

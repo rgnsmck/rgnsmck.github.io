@@ -16,10 +16,12 @@ website:
         text: Home
       - href: Research.qmd
         text: Research
+      - href: teaching.qmd
+        text: Teaching
       - href: contact.qmd
         text: Contact
-      - href: smock_CV.pdf
-        text: CV
+     # - href: smock_CV.pdf
+     #   text: CV
 
 format:
   html:

@@ -8,7 +8,7 @@ subtitle: "PhD Candidate | University of Iowa"
 page-layout: full
 about:
   template: trestles
-  image: IMG_3958.jpg
+  image: headshot (1).jpg
   links:
     - icon: envelope
       text: Email
@@ -16,14 +16,16 @@ about:
     - icon: mortarboard-fill
       text: Google Scholar
       href: https://scholar.google.com/citations?user=Z_k29L4AAAAJ
-    - icon: file-earmark-text
-      text: CV
-      href: smock_CV.pdf
 
 ---
 
 ## About Me
 
-I am a PhD candidate in the Department of Sociology at the University of Iowa. My research examines how individuals imagine and are impacted by societal expectations and cultural beliefs. A question central to my work sits at the intersection of social psychology and cultural sociology: how do people imagine what "most people" think, and how does this imagination shape understanding and behavior? I use survey, experimental, and qualitative methods to understand how cultural beliefs get inside us and shape what we feel and do.
+I am a PhD candidate in the Department of Sociology at the University of Iowa. My research sits at the intersection of social psychology and cultural sociology, examining how individuals perceive shared cultural beliefs and how those perceptions shape emotion and behavior.
+
+I grew up in rural Iowa and attended the University of Iowa for my undergraduate degree, graduating in 2022 with a BS in Sociology.  My Honor's thesis examined sexual assault prevention beliefs and behaviors. I stayed at Iowa for my graduate training, defending my Master's thesis in 2024 on the interplay between cultural beliefs and moral judgments. 
+
+My dissertation examines individual perceptions of societal standards and expectations. People constantly make inferences about what "most people" find valuable, normal, or moral — and these inferences are consequential. I focus on variation in perceived consensus on various cultural directives as a mechanism through which societal standards exert control over individual emotion and behavior.
+
 
 
