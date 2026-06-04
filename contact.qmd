@@ -10,20 +10,14 @@ University of Iowa\
 401 North Hall\
 Iowa City, IA 52242
 
-
-
-
-
-## Real Life
-
 ::: {style="display: flex; justify-content: center; gap: 1rem; text-align: center;"}
-![Backpacking Sequoia National Park, CA](backpacking.jpeg){width=90%}
+![Backpacking Sequoia National Park, CA](backpacking.jpeg){width="90%"}
 
-![Horse(mule)back riding in Bob Marshall Wilderness, MT](waterfall.jpeg){width=83%}
+![Horseback riding in Bob Marshall Wilderness, MT](waterfall.jpeg){width="83%"}
 :::
 
 ::: {style="display: flex; justify-content: center; gap: 1rem; text-align: center;"}
-![Climbing at Picture Rocks, IA](climing.jpg){width=90%}
+![Climbing at Pictured Rocks, IA](climing.jpg){width="90%"}
 
-![Riding mules in Edgewood, IA](mules.jpeg){width=90%}
+![Riding mules in Edgewood, IA](mules.jpeg){width="90%"}
 :::
